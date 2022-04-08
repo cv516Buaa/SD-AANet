@@ -3,7 +3,7 @@
 The code is for the paper "A Self-Distillation Embedded Supervised Affinity Attention Model for Few-Shot Segmentation" [[arxiv](https://arxiv.org/abs/2108.06600)]
 
 <p align="left">
-  <img src="figure/SD-AANet.png" width="640">
+  <img src="figure/SD-AANet.png" width="520">
 </p>
 
 
