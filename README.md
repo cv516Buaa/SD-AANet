@@ -70,7 +70,7 @@ If you have any question, please discuss with me by sending email to liubinghao@
 Please consider citing the paper if you find it useful:
 
 ```
-@article{SD-AANet,
+@article{DBLP:journals/corr/abs-2108-06600,
   author    = {Qi Zhao and
                Binghao Liu and
                Shuchang Lyu and
