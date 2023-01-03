@@ -85,4 +85,4 @@ Please consider citing the paper if you find it useful:
 
 ## References
 
-The code is based on [PFENet](https://github.com/Jia-Research-Lab/PFENet) and [kd-pytorch](https://github.com/peterliht/knowledge-distillation-pytorch). Thanks for their great work!
+The code is based on [PFENet](https://github.com/Jia-Research-Lab/PFENet) and [kd-pytorch](https://github.com/peterliht/knowledge-distillation-pytorch). Thanks for their great works!
