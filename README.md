@@ -75,8 +75,6 @@ Please consider citing the paper if you find it useful:
   journal={IEEE Transactions on Cognitive and Developmental Systems}, 
   title={A Self-Distillation Embedded Supervised Affinity Attention Model for Few-Shot Segmentation}, 
   year={2023},
-  volume={},
-  number={},
   pages={1-1},
   doi={10.1109/TCDS.2023.3251371}}
 ```
