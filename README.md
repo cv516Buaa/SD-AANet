@@ -70,17 +70,15 @@ If you have any question, please discuss with me by sending email to liubinghao@
 Please consider citing the paper if you find it useful:
 
 ```
-@article{DBLP:journals/corr/abs-2108-06600,
-  author    = {Qi Zhao and
-               Binghao Liu and
-               Shuchang Lyu and
-               Xu Wang and
-               Yifan Yang},
-  title     = {A Self-Distillation Embedded Supervised Affinity Attention Model for
-               Few-Shot Segmentation},
-  journal   = {CoRR},
-  url       = {https://arxiv.org/abs/2108.06600},
-}
+@ARTICLE{10057432,
+  author={Zhao, Qi and Liu, Binghao and Lyu, Shuchang and Chen, Huojin},
+  journal={IEEE Transactions on Cognitive and Developmental Systems}, 
+  title={A Self-Distillation Embedded Supervised Affinity Attention Model for Few-Shot Segmentation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCDS.2023.3251371}}
 ```
 
 ## References
